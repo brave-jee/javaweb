@@ -1,0 +1,21 @@
+# 忽略编译生成的文件
+target/
+
+# 忽略IDE相关文件
+.idea/
+*.iml
+
+# 忽略日志文件
+*.log
+
+# 忽略Maven生成的文件
+.mvn/
+
+# 忽略系统文件
+.DS_Store
+
+# 忽略测试生成的文件
+test-output/
+
+# 忽略临时文件
+*.tmp
