@@ -4,6 +4,7 @@ target/
 # 忽略IDE相关文件
 .idea/
 *.iml
+.vscode/
 
 # 忽略日志文件
 *.log
